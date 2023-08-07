@@ -71,7 +71,7 @@ session_start();
 
     <div class="container">
       <div class="hero-content">
-        <h1>We Are Somalia, and would like to know that we have  <span class="typed" data-typed-items=" Rich Cultural Heritage, Entrepreneurial Spirit, Scenic Beauty, Diaspora Engagement, Resilience and Hope"></span></h1>
+        <h1>We Are Somalia, and would like to know that we have <span class="typed" data-typed-items=" Rich Cultural Heritage, Entrepreneurial Spirit, Scenic Beauty, Diaspora Engagement, Resilience and Hope"></span></h1>
       <div>
     </div>
   </div><!-- End Hero -->

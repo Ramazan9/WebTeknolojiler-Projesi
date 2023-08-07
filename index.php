@@ -131,7 +131,7 @@ session_start();
               <div class="services-block">
                 <span>Resilient Unity 🤝:
                 </span>
-                <p class="separator">Somali people's unity and resilience shine in the face of challenges.
+                <p class="separator">Somali people's unity and resilience shine in the face of challenges. Come on Somalia
                 </p>
               </div>
             </div><!-- End testimonial item -->

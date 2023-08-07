@@ -94,7 +94,7 @@ session_start();
           <div class="col-lg-7">
             <div class="about-descr">
 
-              <p class="p-heading">"Hi, My name is Hamoudi. I am a computer engineering student. 
+              <p class="p-heading">"Hi, My name is Hamoudi. I'm a computer engineering student. 
                 Among my hobbies. I like playing musical instruments, taking photos, writing blogs, swimming, and drawing. 
                 In addition to my academic pursuits, I am also passionate about exploring new technologies and programming languages.
                  As for sports, I especially enjoy playing football." </p>

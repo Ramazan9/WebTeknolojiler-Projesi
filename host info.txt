@@ -1,2 +1,0 @@
-database : “vacsom98_somalia”
-pass somalia_12345

@@ -98,7 +98,7 @@ session_start();
                 Among my hobbies. I like playing musical instruments, taking photos, writing blogs, swimming, and drawing. 
                 In addition to my academic pursuits, I am also passionate about exploring new technologies and programming languages.
                  As for sports, I especially enjoy playing football." </p>
-              <p class="separator">I can speak different languages such as Somali(Mother Language), Turkish, English and Arabic. I like exploring new things. We can follow each other from social media. To follow me just click the icons below. See you dude </p>
+              <p class="separator">I can speak different languages such as my mother language Somali, Turkish, English and Arabic. I like exploring new things. We can follow each other from social media. To follow me just click the icons below. See you dude </p>
               <ul class="list-unstyled list-social">
               <li style="display: inline-block; margin-right: 10px;"><a href="https://www.facebook.com/profile.php?id=100076408952235"><i class="bi bi-facebook"></i></a></li>
               <li style="display: inline-block;"><a href="https://www.linkedin.com/in/mohamed-ahmed-hamoudi-a42a66124/"><i class="bi bi-linkedin"></i></a></li>

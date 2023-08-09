@@ -33,7 +33,7 @@ $conn->close();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Register</title>
+    <title>Registeration Form</title>
     <style>
         /* General styles for the body and center alignment */
         

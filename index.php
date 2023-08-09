@@ -111,7 +111,7 @@ session_start();
       </div>
     </div><!-- End About Section -->
 
-    <!-- ======= Services Section ======= -->
+    <!-- ======= My hobbies Section ======= -->
     <div id="services">
       <div class="container">
 
@@ -188,7 +188,7 @@ session_start();
 
       </div>
 
-    </div><!-- End Services Section -->
+    </div><!-- End Hobbies Section -->
 
     <!-- ======= laas Section ======= -->
     
